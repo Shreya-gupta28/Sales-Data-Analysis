@@ -1,2 +1,2 @@
 # Sales-Data-Analysis
-Sales data analysis
+This project involves harnessing the capabilities of PowerBI to analyze and visualize sales data. This includes aggregating sales data from various sources, creating interactive dashboards, and performing in-depth sales performance analysis. The project aims to provide valuable insights into sales trends, customer behavior, and product performance, ultimately assisting in optimizing sales strategies and driving revenue growth.
